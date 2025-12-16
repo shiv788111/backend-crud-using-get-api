@@ -28,24 +28,24 @@ This project demonstrates a **CRUD (Create, Read, Update, Delete) REST API** bui
 
 ## 📂 Project Folder Structure
 
-project-root/
-│
+project-root
 
-├── config/
 
-│   └── db.js
-│
+├── config
 
-├── controller/
+   └── db.js
 
-│   └── studentController.js
 
-│
-├── routes/
+├── controller
 
-│   └── studentRoutes.js
+   └── studentController.js
 
-│
+
+├── routes
+
+   └── studentRoutes.js
+
+
 ├── .env
 
 ├── server.js
@@ -54,4 +54,4 @@ project-root/
 
 ├── package-lock.json
 
-└── node_modules/
+└── node_modules
