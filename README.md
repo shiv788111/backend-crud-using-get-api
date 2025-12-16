@@ -32,8 +32,7 @@ project-root
 
 
 ├── config
-
-   └── db.js
+      └── db.js
 
 
 ├── controller
