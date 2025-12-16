@@ -30,17 +30,28 @@ This project demonstrates a **CRUD (Create, Read, Update, Delete) REST API** bui
 
 project-root/
 │
+
 ├── config/
+
 │   └── db.js
 │
+
 ├── controller/
+
 │   └── studentController.js
+
 │
 ├── routes/
+
 │   └── studentRoutes.js
+
 │
 ├── .env
+
 ├── server.js
+
 ├── package.json
+
 ├── package-lock.json
+
 └── node_modules/
